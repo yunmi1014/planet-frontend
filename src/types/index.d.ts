@@ -1,0 +1,3 @@
+interface IsActive {
+	isActive: boolean;
+}

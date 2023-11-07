@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Inter', sans-serif;
+}
+
+@font-face {
+	font-family: 'Pretendard-Thin';
+	src: url('/fonts/Pretendard/Pretendard-Thin.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-ExtraLight';
+	src: url('/fonts/Pretendard/Pretendard-ExtraLight.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-Light';
+	src: url('/fonts/Pretendard/Pretendard-Light.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-Regular';
+	src: url('/fonts/Pretendard/Pretendard-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-Medium';
+	src: url('/fonts/Pretendard/Pretendard-Medium.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-SemiBold';
+	src: url('/fonts/Pretendard/Pretendard-SemiBold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-Bold';
+	src: url('/fonts/Pretendard/Pretendard-Bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-ExtraBold';
+	src: url('/fonts/Pretendard/Pretendard-ExtraBold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Pretendard-Black';
+	src: url('/fonts/Pretendard/Pretendard-Black.otf') format('opentype');
+}
+
+/* @font-face {
+  font-family: 'SpoqaHanSansNeo-Thin';
+  src: url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Thin.woff2') format('woff2'), url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Thin.woff') format('woff'),
+    url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Thin.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SpoqaHanSansNeo-Regular';
+  src: url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Regular.woff2') format('woff2'), url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Regular.woff') format('woff'),
+    url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SpoqaHanSansNeo-Medium';
+  src: url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Medium.woff2') format('woff2'), url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Medium.woff') format('woff'),
+    url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SpoqaHanSansNeo-Light';
+  src: url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Light.woff2') format('woff2'), url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Light.woff') format('woff'),
+    url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SpoqaHanSansNeo-Bold';
+  src: url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Bold.woff2') format('woff2'), url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Bold.woff') format('woff'),
+    url('/fonts/SpoqaHanSansNeo_OTF_subset/SpoqaHanSansNeo-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('/fonts/GmarketSansOTF/GmarketSansMedium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GmarketSansLight';
+  src: url('/fonts/GmarketSansOTF/GmarketSansLight.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GmarketSansBold';
+  src: url('/fonts/GmarketSansOTF/GmarketSansBold.otf') format('opentype');
+} */

@@ -1,0 +1,25 @@
+{
+	"extends": ["plugin:@typescript-eslint/recommended", "plugin:react-hooks/recommended"],
+	"rules": {
+		"@typescript-eslint/no-unused-vars": "off",
+		"@typescript-eslint/no-undef": "off",
+		"react/react-in-jsx-scope": "off",
+		"react/jsx-key": "off",
+		"react/display-name": "off",
+		"no-empty-pattern": "off",
+		"react/prop-types": "off",
+		"react/no-children-prop": "off",
+		"@typescript-eslint/no-empty-function": "off",
+		"no-debugger": "warn",
+		"react-hooks/exhaustive-deps": 0,
+		"@typescript-eslint/no-empty-interface": 0,
+		"@typescript-eslint/no-non-null-assertion": 0,
+		"@typescript-eslint/no-explicit-any": 0,
+		"@typescript-eslint/explicit-module-boundary-types": 0,
+		"@typescript-eslint/ban-ts-comment": 0,
+		"@typescript-eslint/no-non-null-asserted-optional-chain": 0
+	},
+	"parserOptions": {
+		"project": "./tsconfig.json"
+	}
+}
